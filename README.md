@@ -1,6 +1,3 @@
-# Zabbix-Native
-Install Zabbix Server With Seperate Database
-
 # Install Zabbix Server with External Database
 
 ## Prerequisites
