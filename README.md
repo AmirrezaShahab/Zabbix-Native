@@ -1,7 +1,7 @@
 # Zabbix-Native
 Install Zabbix Server With Seperate Database
 
-# Install Zabbix Server with External Database (Ubuntu 22.04)
+# Install Zabbix Server with External Database
 
 ## Prerequisites
 - Two Ubuntu 22.04 servers:
